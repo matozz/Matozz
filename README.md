@@ -4,11 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matozz&label=Profile%20views&color=0e75b6&style=flat" alt="matozz" /> </p>
 
 <h3 align="left">Websites:</h3>
+[Blog] - https://www.matoz.tech
+</br>
 [Cursorjs] - https://cursor.matoz.tech
 </br>
-[ChatGPT] - https://chatgpt.matoz.tech
+[Minx] - https://minx.matoz.tech
 </br>
-[Blog] - https://www.matoz.tech
+[ChatGPT] - https://chatgpt.matoz.tech
 </br>
 </br>
 
