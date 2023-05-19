@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matozz&label=Profile%20views&color=0e75b6&style=flat" alt="matozz" /> </p>
 
+<h3 align="left">Websites:</h3>
+[Cursorjs] - https://cursor.matoz.tech
+</br>
+[ChatGPT] - https://chatgpt.matoz.tech
+</br>
+[Blog] - https://www.matoz.tech
+</br>
+</br>
+
+
 [![Matoz's GitHub stats-Dark](https://github-profile-trophy.vercel.app/?username=matozz&column=-1&margin-w=8&no-bg=true&no-frame=true&theme=nord)](https://github-profile-trophy.vercel.app/?username=matozz&column=-1&margin-w=8&no-bg=true&no-frame=true&theme=nord#gh-dark-mode-only)
 
 [![Matoz's GitHub stats-Light](https://github-profile-trophy.vercel.app/?username=matozz&column=-1&margin-w=8)](https://github-profile-trophy.vercel.app/?username=matozz&column=-1&margin-w=8&no-bg=true&no-frame=true&theme=nord#gh-light-mode-only)
